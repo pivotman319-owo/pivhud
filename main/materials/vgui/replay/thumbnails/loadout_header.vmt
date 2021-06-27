@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui\replay\thumbnails\background01_widescreen_header"
+	"$translucent" 1
+	"$ignorez" 1
+}

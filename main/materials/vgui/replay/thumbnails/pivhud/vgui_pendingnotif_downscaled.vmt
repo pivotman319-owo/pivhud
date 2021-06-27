@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/pivhud/vgui_pendingnotif_downscaled"
+	"$translucent" 1
+	"$ignorez" 1
+	"$vertexcolor" 1
+}

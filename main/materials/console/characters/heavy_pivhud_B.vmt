@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "console/characters/heavy_pivhud_B"
+	"$ignorez" 1
+	"$no_fullbright" "1"
+	"$nolod" "1"
+	"$translucent" "1"
+	"%keywords" "tf"
+}

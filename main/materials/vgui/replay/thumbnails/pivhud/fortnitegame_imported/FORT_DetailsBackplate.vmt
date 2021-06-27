@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/pivhud/fortnitegame_imported/FORT_DetailsBackplate"
+	"$translucent" 1
+	"$ignorez" 1
+	"$vertexcolor" 1
+}

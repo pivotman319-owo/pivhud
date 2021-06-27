@@ -1,0 +1,6 @@
+// Created by Crowbar 0.56
+
+$declaresequence "idle"
+$declaresequence "screendown"
+$declaresequence "screenup"
+$declaresequence "screenup_slow"

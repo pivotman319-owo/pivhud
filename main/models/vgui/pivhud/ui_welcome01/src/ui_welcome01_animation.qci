@@ -1,0 +1,16 @@
+
+$sequence "idle" {
+	"anims\screendown.dmx"
+	numframes 1
+	fps 30
+}
+
+$sequence "screendown" {
+	"anims\screendown.dmx"
+	fps 24
+}
+
+$sequence "screenup" {
+	"anims\screenup.dmx"
+	fps 24
+}

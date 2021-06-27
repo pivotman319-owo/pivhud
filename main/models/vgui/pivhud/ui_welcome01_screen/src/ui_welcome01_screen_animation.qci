@@ -1,0 +1,31 @@
+
+$sequence "idle" {
+	"ui_welcome01_screen_anims\idle.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$sequence "screendown" {
+	"ui_welcome01_screen_anims\screendown.smd"
+	{ event AE_CL_PLAYSOUND 1 "Hud.ProjectorScreenDown" }
+	fadein 0.2
+	fadeout 0.2
+	fps 20
+}
+
+$sequence "screenup" {
+	"ui_welcome01_screen_anims\screenup.smd"
+	{ event AE_CL_PLAYSOUND 1 "Hud.ProjectorScreenUp" }
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$sequence "screenup_slow" {
+	"ui_welcome01_screen_anims\screenup_slow.smd"
+	{ event AE_CL_PLAYSOUND 1 "Hud.ProjectorScreenUpLong" }
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}

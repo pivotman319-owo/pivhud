@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/vgui/filmscreen_fnui"
+	"$model"	"1"
+	"$nocull"	"1"
+	"%keywords" "tf"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "console/background01_widescreen"
+	"$model"	"1"
+	"$nocull"	"1"
+	"%keywords" "tf"
+}

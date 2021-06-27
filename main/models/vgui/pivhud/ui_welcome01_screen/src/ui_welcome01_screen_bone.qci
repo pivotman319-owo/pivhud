@@ -1,0 +1,5 @@
+
+$definebone "base" "" 0 0 0 0 0 89.999983 0 0 0 0 0 0
+$definebone "darkroom" "base" 0 43.179859 420 0 0 0 0 0 0 0 0 0
+$definebone "screen" "base" 0 71.033157 0 0 0 0 0 0 0 0 0 0
+
