@@ -11,7 +11,7 @@ so far, here's its roadmap:
 		- item selection (not yet started)
 	- store (early dev)
 	- replay (absolutely nothing)
-	- loading screen (complete, changes not yet merged into loadout perf stats)
+	- loading screen (complete)
 
 - the actual ingame bit
 	- barely any progress. so far, it's only the welcome screen that's taken care of and nothing else
